@@ -1,11 +1,11 @@
-import streamlit st
+import 
 
-st.title("My Parents New Healthy Diner")
+streamlit.title("My Parents New Healthy Diner")
 
-st.header("Breakfast Menu")
+streamlit.header("Breakfast Menu")
 
-st.text("Omega3 and Bluberry Oatmeal")
-st.text("Kale, Spinach and Rocket Smoothie")
-st.text("Hard-Boiled Free-Range Egg")
+streamlit.text("Omega3 and Bluberry Oatmeal")
+streamlit.text("Kale, Spinach and Rocket Smoothie")
+streamlit.text("Hard-Boiled Free-Range Egg")
 
 
